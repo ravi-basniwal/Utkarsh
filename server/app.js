@@ -20,3 +20,4 @@ app.get('/',(req,res)=>{
 app.listen(PORT,()=>{
     console.log("server is running",PORT)
 })
+// kya india me govt job ki vacancy ke liye koi api hei jo hm fetch kar sakte h
